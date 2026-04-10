@@ -16,6 +16,6 @@ Datos esperados del empleado:
 
 ## 🛠️ Instalación
 ```bash
-git clone https://github.com/usuario/proyecto.git, en este caso lo realicé en IntelliJ IDEA, pero puedes usar cualquier IDE compatible con Java. agregandole un servidor TOMCAT 
+git https://github.com/usuario/proyecto.git(https://github.com/jhidalgoj/desafioSermaluc.git), en este caso lo realicé en IntelliJ IDEA, pero puedes usar cualquier IDE compatible con Java. agregandole un servidor TOMCAT 
 e instalando en el computador local una BBDD H2 para almacenar los datos de los empleados.
 ```
